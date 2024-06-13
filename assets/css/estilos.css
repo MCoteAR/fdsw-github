@@ -39,3 +39,7 @@ body {
   }
 
 }
+
+i:hover{
+  color: blueviolet;
+}
